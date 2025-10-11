@@ -80,6 +80,7 @@ The adapter maintains the connected state, even there's no real permanent connec
 ## License
 MIT License
 
+Copyright (c) 2025 iobroker-community-adapters <iobroker-community-adapters@gmx.de>  
 Copyright (c) 2023 chaozmc <chaozmc@is-jo.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
