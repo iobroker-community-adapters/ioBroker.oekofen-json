@@ -122,7 +122,9 @@
       "uk": "Підключіть OekoFEN Pellematic через JSON до ioBroker"
     },
     "authors": [
-      "chaozmc <chaozmc@is-jo.org>"
+      "chaozmc <chaozmc@is-jo.org>",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+      "mcm1957 <mcm57@gmx.at>"
     ],
     "keywords": [
       "oekofen",
@@ -133,8 +135,8 @@
     "main": "main.js",
     "icon": "oekofen-json.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/chaozmc/ioBroker.oekofen-json/main/admin/oekofen-json.png",
-    "readme": "https://github.com/chaozmc/ioBroker.oekofen-json/blob/main/README.md",
+    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.oekofen-json/main/admin/oekofen-json.png",
+    "readme": "https://github.com/iobroker-community-adapters/ioBroker.oekofen-json/blob/main/README.md",
     "loglevel": "info",
     "mode": "daemon",
     "type": "climate-control",
@@ -147,12 +149,12 @@
     },
     "dependencies": [
       {
-        "js-controller": ">=2.0.0"
+        "js-controller": ">=6.0.11"
       }
     ],
     "globalDependencies": [
       {
-        "admin": ">=5.2.0"
+        "admin": ">=7.6.17"
       }
     ]
   },
