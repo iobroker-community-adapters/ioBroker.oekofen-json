@@ -40,7 +40,7 @@ The adapter maintains the connected state, even there's no real permanent connec
 	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.0.0-alpha.0 (2025-10-11)
 * (mcm1957) Adapter has been migrated to iobroker-community-adapters organisation
 * (mcm1957) Adapter requires node.js >= 20, js-controller >= 6.0.11 and admin >= 7.6.17 now
 * (mcm1957) Dependencies have been updated
@@ -62,11 +62,6 @@ The adapter maintains the connected state, even there's no real permanent connec
 * (chaozmc) Updated Copyright Year
 * (chaozmc) Added .releaseconfig.json for release-script
 * (chaozmc) changed github workflow config
-
-### 1.0.1 (2023-01-21)
-* (chaozmc) Fixed extensive object creation when using a wrong password (fixes Issue #18)
-* (chaozmc) Added counter to stop adapter after 10 unsuccessful requests
-* (chaozmc) Added check if there would be more than 50 top-level-objects to be created
 
 ### **0.0.3**
 * (chaozmc) code cleanup, trigger for update & rescan

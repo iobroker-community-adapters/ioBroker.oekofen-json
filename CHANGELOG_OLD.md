@@ -1,4 +1,9 @@
 # Older changes
+## 1.0.1 (2023-01-21)
+* (chaozmc) Fixed extensive object creation when using a wrong password (fixes Issue #18)
+* (chaozmc) Added counter to stop adapter after 10 unsuccessful requests
+* (chaozmc) Added check if there would be more than 50 top-level-objects to be created
+
 ## 1.0.0 (2023-01-15)
 * (chaozmc) Push version to v1.0.0 as the code seems to be considerable as first stable release
 
