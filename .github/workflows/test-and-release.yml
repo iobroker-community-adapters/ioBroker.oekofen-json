@@ -66,7 +66,7 @@ jobs:
 
     steps:
       ### - uses: ioBroker/testing-action-deploy@v1
-      - uses: mcm4iob/testinng-action-deploy@master
+      - uses: mcm4iob/testing-action-deploy@master
         with:
           node-version: '22.x'
           # Uncomment the following line if your adapter cannot be installed using 'npm ci'
