@@ -19,6 +19,7 @@
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.oekofen-json",
   "license": "MIT",
   "keywords": [
+    "ioBroker",
     "oekofen",
     "pellematic"
   ],
