@@ -16,7 +16,7 @@ on:
 permissions:
   id-token: write
   contents: write  
-  
+
 jobs:
   # Performs quick checks before the expensive test runs
   check-and-lint:
@@ -75,7 +75,7 @@ jobs:
           node-version: '22.x'
           # Uncomment the following line if your adapter cannot be installed using 'npm ci'
           # install-command: 'npm install'
-          ###npm-token: ${{ secrets.NPM_TOKEN }}
+          npm-token: ${{ secrets.NPM_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
           # When using Sentry for error reporting, Sentry can be informed about new releases
