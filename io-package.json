@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "oekofen-json",
-    "version": "2.0.0-alpha.9",
+    "version": "2.0.0-alpha.10",
     "news": {
-      "2.0.0-alpha.9": {
+      "2.0.0-alpha.10": {
         "en": "Adapter has been migrated to iobroker-community-adapters organisation\nAdapter requires node.js >= 20, js-controller >= 6.0.11 and admin >= 7.6.17 now\nDependencies have been updated",
         "de": "Adapter wurde auf iobroker-community-Adapter Organisation migriert\nAdapter benötigt node.js >= 20, js-controller >= 6.0.11 und admin >= 7.6.17 jetzt\nAbhängigkeiten wurden aktualisiert",
         "ru": "Адаптер был перенесен в организацию адаптации сообщества йоброкеров\nАдаптер требует node.js >= 20, js-контроллер >= 6.0.11 и админ >= 7.6.17 сейчас\nЗависимости были обновлены",
