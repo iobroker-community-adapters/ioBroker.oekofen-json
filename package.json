@@ -2,19 +2,10 @@
   "name": "iobroker.oekofen-json",
   "version": "2.0.0",
   "description": "Connect OekoFEN Pellematic via JSON to ioBroker",
-  "author": {
-    "name": "chaozmc",
-    "email": "chaozmc@is-jo.org"
-  },
+  "author": "chaozmc <chaozmc@is-jo.org>",
   "contributors": [
-    {
-      "name": "iobroker-community-adapters",
-      "email": "iobroker-community-adapters@gmx.de"
-    },
-    {
-      "name": "mcm1957",
-      "email": "mcm57@gmx.at"
-    }
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+    "mcm1957 <mcm57@gmx.at>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.oekofen-json",
   "license": "MIT",
